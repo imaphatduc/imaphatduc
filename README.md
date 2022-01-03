@@ -13,6 +13,7 @@
 
 #### 🛠️ Languages
 
+<div style="display: flex;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36" style="margin: 0 5px 0 29px" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36" style="margin: 0 5px" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="36" height="36" style="margin: 0 5px" />
@@ -20,9 +21,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="cplusplus" width="36" height="36" style="margin: 0 5px" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="36" height="36" style="margin: 0 5px" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="36" height="36" style="margin: 0 5px" />
-
+</div>
+  
 #### 🛠️ Tools & Technologies
 
+<div style="display: flex;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg" alt="vim" width="36" height="36" style="margin: 0 5px 0 29px" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="36" height="36" style="margin: 0 5px" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="36" height="36" style="margin: 0 5px" />
@@ -36,7 +39,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="36" height="36" style="margin: 0 5px" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="36" height="36" style="margin: 0 5px" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain.svg" alt="dot-net" width="36" height="36" style="margin: 0 5px" />
-
+</div>
+  
 ### 📊 My Stats
 
 <div style="display: flex;">
