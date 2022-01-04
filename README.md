@@ -1,4 +1,4 @@
-<h2 style="text-align: center;"> Hi there 👋</h2>
+# Hi there 👋
 
 #### I'm Duc Phat and I'm from 🇻🇳 Vietnam. I'm:
 
@@ -9,7 +9,7 @@
 - 〽️ into coding and math.
 - 🛋️ reading and listening to classical music whenever I have free time.
 
-## 🍔  Skill Stack
+## 🍔  My Tech Stack
 
 ### 🛠️ Languages
 
@@ -54,4 +54,4 @@
 
 ## ⚡ My Recent GitHub Activities
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=imaphatduc&bg_color=none&line=81e1fc&color=ff757f&hide_border=true&area=true)](https://github.com/imaphatduc/cubecubed)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=imaphatduc&bg_color=none&line=81e1fc&color=ffc777&custom_title=&hide_border=true&area=true)](https://github.com/imaphatduc/cubecubed)
