@@ -43,7 +43,7 @@
   
 ## 📊 My Stats
 
-<p>
+<p style="display: flex;">
   <a href="https://github.com/imaphatduc/cubecubed" alt="Imaphatduc's GitHub Stats" style="margin: 5px;">
     <img src="https://github-readme-stats.vercel.app/api?username=imaphatduc&count_private=true&show_icons=true&border_color=fca7ea&border_radius=10&bg_color=191a2a&title_color=ffc777&icon_color=82aaff&text_color=c8d3f5" />
   </a>
