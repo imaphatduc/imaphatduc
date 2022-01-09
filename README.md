@@ -4,7 +4,7 @@
 
 - ☀️ very happy to say hi to all of you.
 - 📨 creating and contributing to open-source projects.
-- 🐧 a Linux penguin and a self-taught programmer (a.k.a. an autodidact programmer--er).
+- 🐧 a Linux penguin and a self-taught programmer (a.k.a. an autodidact programmer—er).
 - 🚀 passionate in learning. I want to learn everything because possibilities never end.
 - 〽️ into coding and math.
 - 🛋️ reading and listening to classical music whenever I have free time.
