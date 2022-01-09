@@ -52,6 +52,6 @@
   </a>
 </p>
 
-<!-- ## ⚡ My Recent GitHub Activities
+## ⚡ My Recent GitHub Activities
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=imaphatduc&bg_color=none&line=81e1fc&color=ffc777&custom_title=&hide_border=true&area=true)](https://github.com/imaphatduc/cubecubed) -->
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=imaphatduc&bg_color=none&line=81e1fc&color=ffc777&custom_title=&hide_title=true&hide_border=false&area=true)](https://github.com/imaphatduc/cubecubed)
