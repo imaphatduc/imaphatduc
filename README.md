@@ -48,7 +48,7 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=imaphatduc&count_private=true&show_icons=true&border_color=fca7ea&border_radius=10&bg_color=191a2a&title_color=ffc777&icon_color=82aaff&text_color=c8d3f5" />
   </a>
   <a href="https://github.com/imaphatduc/cubecubed" alt="Imaphatduc's GitHub Stats" style="margin: 5px;">
-    <img height="160em" src="https://github-readme-stats-liart-phi.vercel.app/api/top-langs/?username=imaphatduc&layout=compact&langs_count=10&border_color=fca7ea&border_radius=10&bg_color=191a2a&title_color=ffc777&text_color=c8d3f5" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaphatduc&layout=compact&langs_count=10&border_color=fca7ea&border_radius=10&bg_color=191a2a&title_color=ffc777&text_color=c8d3f5" />
   </a>
 </p>
 
