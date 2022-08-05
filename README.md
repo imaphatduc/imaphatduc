@@ -13,7 +13,7 @@
 
 ### 💬 Languages
 
-[![Languages](https://skillicons.dev/icons?i=haskell,cpp,ts,c,js,py,cs,html,css)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=haskell,cpp,c,ts,js,py,cs,html,css)](https://skillicons.dev)
   
 ### 🛠️ Tools & Technologies
 
