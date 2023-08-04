@@ -34,4 +34,4 @@
 
 ## ⚡ My Recent GitHub Activities
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=imaphatduc&bg_color=none&line=81e1fc&color=ff757f&custom_title=&hide_title=true&hide_border=true&area=true)](https://github.com/imaphatduc/cubecubed)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imaphatduc&bg_color=none&line=81e1fc&color=ff757f&custom_title=&hide_title=true&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
